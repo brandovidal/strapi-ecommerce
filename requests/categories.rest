@@ -1,1 +1,1 @@
-GET http://localhost:1337/api/categories
+GET http://localhost:1337/api/categories?populate[image][fields][0]=name&populate[image][fields][1]=url
