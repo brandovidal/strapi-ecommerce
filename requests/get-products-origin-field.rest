@@ -1,0 +1,2 @@
+GET http://localhost:1337/api/content-type-builder/content-types/api::product.product
+Authorization: Bearer {{$dotenv STRAPI_API_TOKEN}}
